@@ -1,0 +1,7 @@
+<h1 align="center">barber-shop</h1>
+<br>
+<p align="center">For this project i only used HTML5, CSS3. The objective of this aplication is to show a web page changing elements. I worked with some div, ul, label, input, requirements, submits, tables and much more.</p><br>
+<p align="center">For the next steps i'll work on resonsible adaptations to get this page enable for anyone who wants to check it out by phone</p>
+<br><br>
+
+
