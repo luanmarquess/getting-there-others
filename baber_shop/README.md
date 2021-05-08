@@ -1,4 +1,4 @@
-<h1 align="center">barber-shop</h1>
+<h1 align="center">:barber: Barber-Shop :barber:</h1>
 <br>
 <p align="center">For this project i only used HTML5, CSS3. The objective of this aplication is to show a barber-shop web page.</p><br>
 <p align="center">During this journey I was able to learn and improve:
