@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="reset.css/reset.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+    <title>Products - Barber Shop</title>
+</head>
+<header>
+    <div class="caixa">
+        <h1> <a href="index.html"><img src="imagens/logo.png" alt="Logo" class="logoimg"></a> <h1>
+
+        <nav>   
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="produtos.html">Products</a></li>
+                <li><a href="contatos.html">Contacts</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main>
+    <div id="produto" class="filtro">
+        <input type="checkbox" id="check">
+        <label id="icone" for="check"><img src="imagens/lupa.png" alt="Pesquisa"></label>
+        <input type="text" name="filtro" id="filtrar-tabela" class="input-filtro" placeholder="Which product are you looking for?">  
+    </div>
+    
+    <ul class="produtos">
+        <li class="item">
+            <h2 class="produto">Hair</h2>
+            <img src="imagens/cabelo.jpg">
+            <p class="produto-descricao">Scissors or Machine</p>
+            <p class="produto-preco">$ 25,00</p>
+        </li>
+        <li class="item">
+            <h2 class="produto" >Beard</h2>
+            <img src="imagens/barba.jpg">
+            <p class="produto-descricao">Professional beard cutting</p>
+            <p class="produto-preco">$ 18,00</p>
+        </li>
+        <li class="item">
+            <h2 class="produto" >Full</h2>
+            <img src="imagens/cabelo+barba.jpg">
+            <p class="produto-descricao">Hair and Beard pack</p>
+            <p class="produto-preco">$ 35,00</p>
+        </li>
+
+    </ul>
+</main>
+
+    <footer>
+        <img src="imagens/logo-menor.png">
+        <p class="copy-right">&copy; Copyright Barber Shop 2021</p>
+
+    </footer>
+
+<script src="js/filter.js"></script>
+    
+</body>
+</html>
