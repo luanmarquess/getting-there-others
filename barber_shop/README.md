@@ -16,6 +16,7 @@
 - Improve the user's visual experience with transition, transform, shadows, opacity, borders...;
 - Transition colors;
 - Manipulating selectors;
+- Filter;
 
 The learning was great, the journey is long and the secret is constancy.</p>
 
